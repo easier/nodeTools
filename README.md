@@ -1,0 +1,2 @@
+# nodeScript
+some common script
