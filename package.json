@@ -1,0 +1,6 @@
+{
+	"name": "addpage",
+	"bin":{
+		"addpage": "./addpage.js"
+	}
+}
