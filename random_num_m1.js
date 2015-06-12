@@ -12,5 +12,6 @@ for ( i = 1; i<30; i++ ){
 }
 
 console.log(arr);
-arr.sort(function(a,b){return a>b?1:-1});
+//arr.sort(function(a,b){return a>b?1:-1});
+arr.sort(function(a,b){return a-b;});
 console.log(arr);
