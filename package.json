@@ -1,6 +1,9 @@
 {
-	"name": "addpage",
-	"bin":{
-		"addpage": "./addpage.js"
-	}
+  "name": "addpage",
+  "bin": {
+    "addpage": "./addpage.js"
+  },
+  "dependencies": {
+    "shelljs": "^0.5.1"
+  }
 }
