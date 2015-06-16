@@ -12,6 +12,7 @@ for ( i = 1; i<30; i++ ){
 }
 
 console.log(arr);
+// 调用 sort 方法
 //arr.sort(function(a,b){return a>b?1:-1});
 arr.sort(function(a,b){return a-b;});
 console.log(arr);
