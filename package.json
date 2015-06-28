@@ -1,7 +1,8 @@
 {
-  "name": "addpage",
+  "name": "nodeTools",
   "bin": {
-    "addpage": "./addpage.js"
+    "addpage": "./addpage.js",
+	"fw7": "./fw7.js"
   },
   "dependencies": {
     "shelljs": "^0.5.1"
