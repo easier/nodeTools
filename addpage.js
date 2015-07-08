@@ -6,7 +6,6 @@ cd('view');
 
 "define(['utils/appFunc','i18n!nls/lang','utils/tplManager'],function(appFunc,i18n,TM){".to(filename+'View.js');
 "\n".toEnd(filename+'View.js');
-"\t123".toEnd(filename+'View.js');
 "\n".toEnd(filename+'View.js');
 "});".toEnd(filename+'View.js');
 console.log('add' + filename + 'View.js was added!');
