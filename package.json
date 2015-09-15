@@ -1,10 +1,15 @@
 {
   "name": "nodeTools",
   "bin": {
-    "addpage": "./addpage.js",
-	"fw7": "./fw7.js"
+    "addpage": "bin/addpage.js",
+    "fw7": "bin/fw7.js",
+    "gulptasker": "bin/gulptasker.js",
+	"sitemap": "bin/sitemap.js"
   },
   "dependencies": {
-    "shelljs": "^0.5.1"
+    "shelljs": "^0.5.1",
+    "request": "^2.61.0",
+    "fs": "0.0.2",
+    "cheerio": "^0.19.0"
   }
 }
