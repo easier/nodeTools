@@ -4,7 +4,8 @@
     "addpage": "bin/addpage.js",
     "fw7": "bin/fw7.js",
     "gulptasker": "bin/gulptasker.js",
-	"sitemap": "bin/sitemap.js"
+	"sitemap": "bin/sitemap.js",
+    "esed": "bin/esed.js"
   },
   "dependencies": {
     "shelljs": "^0.5.1",

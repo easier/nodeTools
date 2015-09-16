@@ -17,7 +17,7 @@ fs.readdir('.',function(err,files){
 	fs.writeFile('page.html', str,'utf-8', function(err){
      // console.log(htmlfile);
       if (err) throw err;
-      console.log('It\'s saved!');
+      console.log('page.html was saved!');
   })
 
 });
